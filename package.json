@@ -1,0 +1,22 @@
+{
+  "name": "repeatio-translation-server",
+  "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  },
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ibm-watson": "^5.7.0",
+    "node-fetch": "^2.6.0"
+  }
+}
